@@ -22,8 +22,8 @@ A lightweight internet radio automation and streaming control panel using:
 
 1. Clone the project:
 ```bash
-git clone <repo>
-cd <repo>
+git clone https://github.com/tchovi/IcecySoap.git
+cd IcecySoap
 ```
 
 2. Run setup:
